@@ -283,7 +283,7 @@ function updatePrice(){
 //     updatePrice();
 // }
 
-var whatsappLink = "https://api.whatsapp.com/send?phone=9190000000&text=Order%20details";
+var whatsappLink = "https://api.whatsapp.com/send?phone=8971833733&text=Order%20details";
 
 function updatewhatsappLink (){
     for(let index= 0; index < items.length; index++){
